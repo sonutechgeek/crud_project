@@ -1,0 +1,39 @@
+@media (min-width: 300px){
+    body{
+        background-color:#fff;
+        width: 152vh;
+        /* margin-left: -20px; */
+    }
+}
+@media (min-width: 400px){
+    body{
+        background-color: #fff;
+        width: 139vh;
+        /* margin-left: -40px; */
+    }
+}
+@media (min-width: 600px){
+    body{
+        background-color:#fff;
+        width: 148vh;
+        /* margin-left: -20px; */
+    }
+}
+@media (min-width: 800px){
+    body{
+        background-color:#fff;
+        width: 150vh;
+    }
+}
+@media (min-width: 1000px){
+    body{
+        background-color:#fff;
+        width: 175vh;
+    }
+}
+@media (min-width: 1200px){
+    body{
+        background-color:#fff;
+        width: 100%;
+    }
+}
